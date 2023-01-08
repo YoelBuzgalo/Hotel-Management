@@ -12,6 +12,8 @@ using namespace std;
 int main()
 {
     // Nik was here
+
+    // Thios is another branch
     Hotel *newHotel = new Hotel();
     newHotel->start();
 
