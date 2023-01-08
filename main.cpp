@@ -11,6 +11,7 @@ using namespace std;
 
 int main()
 {
+    // Nik was here
     Hotel *newHotel = new Hotel();
     newHotel->start();
 
